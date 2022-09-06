@@ -1,0 +1,16 @@
+[lang]{
+    font-style: oblique;
+    font-family: cursive;
+    text-align: center;
+    background-color: rgb(140, 112, 167);
+
+
+}
+.texto {
+    font-family: cursive;
+    text-align: right;
+    background-color: rgb(255, 0, 0);
+}
+[src]{
+    float: right;
+}
